@@ -9,17 +9,17 @@
     -   [📜 License](#-license)
     -   [💖 Show your support](#-show-your-support)
 
-# Wild Tic-Tac-Toe
-
-To play the Wild version of Tic-Tac-Toe, switch to the `#Wild` code in both `board.py` and `engine.py`.
-
-In this variation, the objective is flipped — the goal is to **avoid winning** in the traditional sense. The player who successfully prevents themselves from forming a winning line earns the point. It’s a fun twist on classic Tic-Tac-Toe that challenges you to think in reverse!
-
 # 🤖 Tic-Tac-Toe Terminator
 
 **Tic-Tac-Toe Terminator** is a computer player that uses the minimax algorithm to make its moves. This algorithm allows the A.I. to analyze the current state of the game and determine the best move to make in order to maximize its chances of winning.
 
 The A.I. is designed to be unbeatable, meaning it will always either win or draw against a human opponent. To achieve this level of performance, the A.I. prunes unnecessary branches of the game tree to make its calculations more efficient.
+
+# Wild Tic-Tac-Toe
+
+To play the Wild version of Tic-Tac-Toe, switch to the `#Wild` code in both `board.py` and `engine.py`.
+
+In this variation, the objective is flipped — the goal is to **avoid winning** in the traditional sense. The player who successfully prevents themselves from forming a winning line earns the point. It’s a fun twist on classic Tic-Tac-Toe that challenges you to think in reverse!
 
 ## 🛠 Technology
 
